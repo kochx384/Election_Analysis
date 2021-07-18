@@ -49,9 +49,7 @@ with open(file_to_load) as election_data:
         # Retrieve the vote count of the candidate
         votes = candidate_votes[candidate_name]
         # Calculate the percentage of votes
-        vote_percentage = float(votes) / float(total_votes) * 100
-        # Print the candiate name and percentage of votes
-        #print(f"{candidate_name}: received {vote_percentage:.1f}% of the vote")
+        vote_percentage = float(votes) / float(total_votes) * 100  
         # Determine if the votes are greater than the winning count.
         if (votes > winning_count) and (vote_percentage > winning_percentage):
             # Set the winning count = votes
@@ -60,6 +58,7 @@ with open(file_to_load) as election_data:
             winning_percentage = vote_percentage
             # Set the winning candidate = candidate
             winning_candidate = candidate_name
+        # Print the candiate name and percentage of votes
         print(f"{candidate_name}: {vote_percentage:.1f}% ({votes:,})\n")
     winning_candidate_summary = (
     f"-------------------------\n"
