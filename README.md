@@ -32,3 +32,6 @@ The analysis of the election show that:
   - Raymon Anthony Doane received **3.1%** of the vote and **11,606** number of votes.
 - Winner of the Election:
   - Candidate Diana Degette, who received **73.8%** of the vote and **272,892** number of votes.
+
+## Election Audit Summary
+This script has the ability to be used for any election. One option to modify the script so it can better serve other elections is that it can also pull the largest county vote percentage and vote count. This can be useful in the situation with a long list of counties where it can be difficult to locate the county with the largest turnout. Another option to modify the script is to include a breakdown of the different voting methods, mail-in ballots, voting machines, paper ballots etc. We can do a similar breakdown as with the other categories, include a percentage and vote count for each method. This script is flexible and can be modified for any election.
