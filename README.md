@@ -15,18 +15,20 @@ A Colorado Board Elections employee has given the following tasks to complete th
 
 ## Summary
 The analysis of the election show that:
-- There were "369,711" votes cast in the election.
-- The candidates were:
+- There were **369,711** votes cast in the election.
+- County Turnout:
+  - Jefferson county had **10.5%** of the vote and **38,855** number of votes.
+  - Denver county had **82.8%** of the vote and **306,055** number of votes.
+  - Arapahoe county had **6.7%** of the vote and **24,801** number of votes.
+- Largest County Turnout:
+  - Denver county had the largest number of votes with **306,055** votes.
+- Candidates:
   - Diana DeGette
   - Charles Casper Stockham
   - Raymon Anthony Doane
-- The candidate's results were:
-  - Diana Degette received "73.8%" of the vote and "272,892" number of votes.
-  - Charles Casper Stockham received "23.0%" of the vote and "85,213" number of votes.
-  - Raymon Anthony Doane received "3.1%" of the vote and "11,606" number of votes.
-- The winner of the election was:
-  - Candidate Diana Degette, who received "73.8%" of the vote and "272,892" number of votes.
-
-## Challenge Overview
-
-## Challenge Summary
+- Candidate's Results:
+  - Diana Degette received **73.8%** of the vote and **272,892** number of votes.
+  - Charles Casper Stockham received **23.0%** of the vote and **85,213** number of votes.
+  - Raymon Anthony Doane received **3.1%** of the vote and **11,606** number of votes.
+- Winner of the Election:
+  - Candidate Diana Degette, who received **73.8%** of the vote and **272,892** number of votes.
